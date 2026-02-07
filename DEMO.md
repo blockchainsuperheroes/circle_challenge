@@ -93,9 +93,20 @@ Already have USDC on Ethereum? Bridge directly to Pentagon Chain:
 
 Your character NFT appears in your wallet on Pentagon Chain.
 
+![Live Mint Page](demo/04-mint-page-live.jpg)
+
 **Check your NFTs:**
-- Explorer: [scan.pentagon.games](https://scan.pentagon.games)
+- Explorer: [explorer.pentagon.games](https://explorer.pentagon.games)
 - In-game: Character appears in EtherFantasy
+
+### NFT Inventory (Live on Pentagon Chain)
+
+![NFT Inventory - 23 Holders, 2,276 Transfers](demo/05-nft-inventory.jpg)
+
+**Ether Fantasy Character (EFC)** — ERC-721 collection with:
+- 23 unique holders
+- 2,276 total transfers
+- Live on Pentagon Chain mainnet
 
 ---
 
