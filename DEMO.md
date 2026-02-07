@@ -63,7 +63,24 @@ Price: **1 USDC** per character mint
 
 ---
 
-### Step 4: Confirm & Mint
+### Step 4: Bridge USDC (Optional)
+
+> 🟢 **LIVE: USDC bridge path enabled!**
+
+Already have USDC on Ethereum? Bridge directly to Pentagon Chain:
+
+![Bridge USDC Support](mockups/03-bridge-usdc-support.png)
+
+**Supported tokens on bridge.pentagon.games:**
+- ETH
+- PentagonChain (PC)
+- Tether USD (USDT)
+- **USD Coin (USDC)** ✅
+- Pentagon (PEN)
+
+---
+
+### Step 5: Confirm & Mint
 
 1. Review transaction details
 2. Approve USDC spend (if first time)
@@ -72,7 +89,7 @@ Price: **1 USDC** per character mint
 
 ---
 
-### Step 5: Character Delivered
+### Step 6: Character Delivered
 
 Your character NFT appears in your wallet on Pentagon Chain.
 
