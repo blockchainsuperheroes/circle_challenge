@@ -192,7 +192,7 @@ The human-AI interface isn't a chat window. It's shared digital identity in game
 - **Explorer:** https://explorer.pentagon.games
 - **Discord:** [Pentagon Games](https://discord.gg/pentagongames)
 - **X/Twitter:** [@PentagonGames](https://x.com/PentagonGames)
-- **GitHub:** https://github.com/blockchainsuperheroes/circle_challenge
+- **GitHub:** https://github.com/blockchainsuperheroes/etherfantasy-circle-grant
 
 ---
 
